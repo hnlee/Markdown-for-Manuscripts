@@ -1,4 +1,4 @@
-Writing Scientific Papers Using Markdown
+__Writing Scientific Papers Using Markdown__
 ====================
 
 Markdown is a markup language that is very handy and easy to use. I won't say much more about it, but I've written about it before [here](http://danieljhocking.wordpress.com/2013/09/25/knitting-beautiful-documents-in-rstudio/) and [here](http://danieljhocking.wordpress.com/2014/04/07/electronic-lab-notebook-take-1/). I've used it increasingly for writing blog posts, webpages, taking notes, with GitHub issue tracking, and with R code (R Markdown in RStudio is fantastic!). As a Mac OS user, I find Microsoft Office products to be annoying and temperamental. I read Karthik Ram's great post on how to [ditch MS Word](http://inundata.org/2012/12/04/how-to-ditch-word/) a while back and since I've been using Markdown for so much lately, it seemed like a good time to write my first scientific paper with it. I'm going to use this post, written in Markdown, to outline my process. This will help me repeat the process in the future if I like it and hopefully help others interested in trying it.
